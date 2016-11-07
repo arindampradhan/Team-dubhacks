@@ -16,14 +16,14 @@ he web page looks in front of customers
 
 ## GANNET
 
-![GANNET](https://github.com/arindampradhan/Team-dubhacks/blob/master/gannet.png)
+![GANNET](https://raw.githubusercontent.com/arindampradhan/Team-dubhacks/master/gannet.png)
 
 
 ## Example
 
 An Example Of How the Visualizer looks like..
 
-![GANNET](https://github.com/arindampradhan/Team-dubhacks/blob/master/example.png)
+![GANNET](https://raw.githubusercontent.com/arindampradhan/Team-dubhacks/master/example.png)
 
 
 :paperclip: STACK `Technology Stack`
