@@ -40,8 +40,8 @@ An Example Of How the Visualizer looks like..
 - **``Angular js``:**
 - **``d3.js``**
 
-:paperclip:
-Features
+
+:paperclip: Features
 ========
 
 - Super fast product search. **Powered By Algolia**
